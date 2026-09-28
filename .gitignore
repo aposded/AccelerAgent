@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+results/outputs/
+.DS_Store
+traces/
+results/*_subset.csv
